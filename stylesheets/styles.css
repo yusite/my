@@ -602,6 +602,7 @@ ul {
 strong {
   font-family: 'OpenSansBold', "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
+  color: #e8e8e8;
 }
 
 .wrapper {
