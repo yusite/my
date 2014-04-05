@@ -1,0 +1,31 @@
+= 私人空间
+:toc: right
+:numbered:
+生活与工作的管理及其注意事项
+
+== 找工作
+
+. 2014年4月3日开始找工作。
+. 未来目标：进入 Consultant Company。
+. 申请 Linkin 帐号，关注公司信息。
+
+== 笔记
+
+. 每天用白纸记笔记，需要当天整理的，用彩色曲别针别好，每天睡觉之前整理。
+. 不需要当天整理的，用夹子夹好，保存起来。
+
+== 语言学习
+
+. 建立电子表格，每天添加新的单词。
+. 每天用意大利语写一篇短文。
+
+== 链接
+
+. https://www.dropbox.com/sh/nx2jmcwy3pjvk8l/fDU4TGdbue[my.yuz.me/collections: 私藏文件]
+. https://drive.google.com/a/yuz.me/folderview?id=0B6sObx0p_r5fSkFlbE95R2pCVE0&usp=sharing[my.yuz.me/documents: 个人证件及资料]
+. https://docs.google.com/a/yuz.me/document/d/1hDwRUwJJYpw2bFMESy0-EULRGp9sM27_DGWvALDerwc/edit?usp=sharing[my.yuz.me/passwords: 密码]
+. https://docs.google.com/spreadsheets/d/1LHIdw-HdWW0a3kLcLbmhjsjUvXgoSqI3tcGs96PEDW8/edit?usp=sharing[my.yuz.me/words: 英语和意大利语单词表]
+. 我的笔记本
+.. http://my.yuz.me/wiki/en[my.yuz.me/wiki/en: 英语笔记]
+.. http://my.yuz.me/wiki/it[my.yuz.me/wiki/it: 意大利语笔记]
+.. http://my.yuz.me/wiki/finance[my.yuz.me/wiki/finance: 金融笔记]
