@@ -28,4 +28,4 @@
 . 我的笔记本
 .. http://my.yuz.me/wiki/en[my.yuz.me/wiki/en: 英语笔记]
 .. http://my.yuz.me/wiki/it[my.yuz.me/wiki/it: 意大利语笔记]
-.. http://my.yuz.me/wiki/finance[my.yuz.me/wiki/finance: 金融笔记]
+.. http://my.yuz.me/wiki/finance[my.yuz.me/wiki/fi: 金融笔记]
